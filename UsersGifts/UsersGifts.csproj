@@ -16,7 +16,6 @@
 			<LastGenOutput>Settings.Designer.cs</LastGenOutput>
 		</None>
 		<PackageReference Include="EntityFramework" Version="6.4.4" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.0" />
 		<Compile Update="Properties\Settings.Designer.cs">
 			<AutoGen>True</AutoGen>
 			<DependentUpon>Settings.settings</DependentUpon>
